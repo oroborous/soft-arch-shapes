@@ -1,4 +1,4 @@
-package openclosed;
+package edu.wctc.openclosed;
 
 public enum ShapeType {
     CIRCLE,
