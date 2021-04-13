@@ -1,7 +1,7 @@
-package edu.wctc.openclosed.oop.shapes;
+package edu.wctc.openclosedshapes.after.shapes;
 
-import edu.wctc.openclosed.oop.Shape;
-import edu.wctc.openclosed.ShapeType;
+import edu.wctc.openclosedshapes.after.Shape;
+import edu.wctc.openclosedshapes.ShapeType;
 
 import java.awt.*;
 

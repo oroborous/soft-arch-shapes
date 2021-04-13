@@ -1,6 +1,6 @@
-package edu.wctc.openclosed.oop;
+package edu.wctc.openclosedshapes.after;
 
-import edu.wctc.openclosed.ShapeType;
+import edu.wctc.openclosedshapes.ShapeType;
 
 public abstract class Shape {
     protected ShapeType type;

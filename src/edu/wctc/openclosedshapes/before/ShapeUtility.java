@@ -1,7 +1,7 @@
-package edu.wctc.openclosed.ifelse;
+package edu.wctc.openclosedshapes.before;
 
-import edu.wctc.openclosed.ifelse.shapes.Circle;
-import edu.wctc.openclosed.ifelse.shapes.Square;
+import edu.wctc.openclosedshapes.before.shapes.Circle;
+import edu.wctc.openclosedshapes.before.shapes.Square;
 
 public class ShapeUtility {
 

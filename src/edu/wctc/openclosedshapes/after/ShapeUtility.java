@@ -1,4 +1,4 @@
-package edu.wctc.openclosed.oop;
+package edu.wctc.openclosedshapes.after;
 
 public class ShapeUtility {
 

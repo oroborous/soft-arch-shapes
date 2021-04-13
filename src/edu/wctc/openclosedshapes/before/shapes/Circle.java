@@ -1,6 +1,6 @@
-package edu.wctc.openclosed.ifelse.shapes;
+package edu.wctc.openclosedshapes.before.shapes;
 
-import edu.wctc.openclosed.ShapeType;
+import edu.wctc.openclosedshapes.ShapeType;
 
 import java.awt.*;
 
