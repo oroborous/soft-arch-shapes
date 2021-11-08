@@ -1,16 +1,18 @@
 package edu.wctc.openclosedshapes.before.shapes;
 
-import edu.wctc.openclosedshapes.ShapeType;
-
 import java.awt.*;
 
 public class Circle {
-    private ShapeType type = ShapeType.CIRCLE;
     private double radius;
     private Point center;
 
-    public void drawCircle() {
+    public void draw() {
         // Imagine code to draw a circle
         System.out.println("Circle drawn");
+    }
+
+    public void rotate() {
+        // Not that a circle really does anything when rotated...
+        System.out.println("Circle rotated");
     }
 }

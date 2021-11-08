@@ -7,4 +7,10 @@ public class ShapeUtility {
             shape.draw();
         }
     }
+
+    public static void rotateAllShapes(Shape[] list) {
+        for (Shape shape : list) {
+            shape.rotate();
+        }
+    }
 }

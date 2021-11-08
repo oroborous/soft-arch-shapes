@@ -10,16 +10,24 @@ public class ShapeUtility {
         for (Object obj : list) {
             if (obj instanceof Circle) {
                 Circle c = (Circle) obj;
-                c.drawCircle();
+                c.draw();
             } else if (obj instanceof Square) {
                 Square s = (Square) obj;
-                s.drawSquare();
+                s.draw();
             }
         }
     }
 
     public static void rotateAllShapes(Object[] list) {
-        //...
+        for (Object obj : list) {
+            if (obj instanceof Circle) {
+                Circle c = (Circle) obj;
+                c.rotate();
+            } else if (obj instanceof Square) {
+                Square s = (Square) obj;
+                s.rotate();
+            }
+        }
     }
 
     public static void enlargeAllShapes(Object[] list) {
